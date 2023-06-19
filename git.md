@@ -61,7 +61,17 @@ $ git branch dev // 创建一个dev分支
 #### 切换分支 
 ~~~ powershell 
 $ git checkout dev // 切换到dev分支
-~~~
+~~~ 
+
+#### 合并分支 
+~~~ powershell 
+$ git merge dev  // 把当前分支与dev分支合并
+~~~ 
+
+#### 删除分支 
+~~~ powershell 
+$ git branch -d dev  // 删除dev分支
+~~~ 
 
 ## git 记录日志
 #### 查看日志
