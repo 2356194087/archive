@@ -79,4 +79,6 @@ $ git branch -d dev  // 删除dev分支
 $ git reflog  // 查看所有提交的版本号
 $ git log     // 查看历史日志 
 $ git log --oneline    // 查看简洁版日志
+
 ~~~
+2022-7-1
